@@ -1,4 +1,4 @@
- Soliton.py:      Korteweg de Vries equation for a soliton
+#Soliton.py:      Korteweg de Vries equation for a soliton
 
 from visual import *
 import matplotlib.pylab as p;
